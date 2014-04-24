@@ -2,6 +2,7 @@
 #include <string.h>
 #include <signal.h>
 #include <sys/time.h>
+#include <stdlib.h>
 
 static unsigned long int num = 123456;
 static int key[10][2];
